@@ -22,7 +22,7 @@ int main() {
     for(i = 0; i < n; i++) {
         if(nums[i] == target) {
             first = i;
-            break;
+            break; 
         }
     }
 
